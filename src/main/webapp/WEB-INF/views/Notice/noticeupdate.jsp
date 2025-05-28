@@ -37,7 +37,6 @@
 	                <input type="checkbox" name="noticePinned" value="1" <c:if test="${notice.noticePinned == 1}">checked</c:if>>
 	            </div>
 	        </div>
-	
 	        <div class="form-group">
 	            <label>내용</label>
 	            <textarea name="noticeContent" rows="10" required>${notice.noticeContent}</textarea>

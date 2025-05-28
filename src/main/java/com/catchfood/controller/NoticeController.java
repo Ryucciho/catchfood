@@ -29,7 +29,6 @@ public class NoticeController {
 	    model.addAttribute("totalCount", noticedao.noticeCount());
 	    model.addAttribute("pageSize", pageSize);
 
-	    
 	    return "Notice/noticelist";
 	}
 	
