@@ -52,8 +52,8 @@ CatchFood - 음식점 예약 서비스
 
 ### 👥 팀원 및 담당 역할
 - **공통 역할**: DB설계, 메인화면
-- **류지호**:예약 및 예약 확인, 결제 페이지, 회원리스트(관리자), 예약 리스트(관리자)
-- **박상준**: 리뷰, 공지사항 페이지, 예약 현황(관리자), 메뉴 작성 및 리스트(관리자)
+- **류지호**:예약 및 예약 임시 확인, 결제 페이지, 회원 및 예약 리스트(관리자)
+- **박상준**: 리뷰, 공지사항 페이지, 예약 현황, 메뉴 작성 및 메뉴 리스트(관리자)
 - **문민**: 회원가입/로그인, 내 정보수정, 자료 수집
  
 
@@ -155,9 +155,40 @@ CatchFood - 음식점 예약 서비스
 ### 🖥️ 화면 구현 설명
 
 <details>
-
+<summary>메인 화면</summary>
+  -  
+  <img src="" alt=""/>
 </details>
 
+<details>
+<summary>메뉴 리스트</summary>
+  -  
+  <img src="" alt=""/>
+</details>
+
+<details>
+<summary>예약</summary>
+  -  
+  <img src="" alt=""/>
+</details>
+
+<details>
+<summary>예약 검토</summary>
+  -  
+  <img src="" alt=""/>
+</details>
+
+<details>
+<summary>결제</summary>
+  -  
+  <img src="" alt=""/>
+</details>
+
+<details>
+<summary>예약 현황(회원)</summary>
+  -  
+  <img src="" alt=""/>
+</details>
 
 ## 4️⃣ DB 설계 및 API 정보
 ### 🗂️ ERD 이미지
