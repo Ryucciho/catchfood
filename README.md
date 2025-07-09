@@ -156,43 +156,43 @@ CatchFood - 음식점 예약 서비스
 
 <details>
 <summary>메인 화면</summary>
-  -  
-  <img src="" alt=""/>
+  -  CaTchFood 음식점의 첫 화면에서는 이벤트 배너, 사장님 추천 메뉴, 공지사항을 한눈에 확인할 수 있습니다.
+  <img src="src/main/resources/static/images/capture/메인.png" alt="메인 화면"/>
 </details>
 
 <details>
 <summary>메뉴 리스트</summary>
-  -  
-  <img src="" alt=""/>
+  -  회원과 비회원 모두 다양한 음식 메뉴를 카테고리별로 확인할 수 있습니다.
+  <img src="src/main/resources/static/images/capture/메뉴판.png" alt="메뉴 리스트"/>
 </details>
 
 <details>
 <summary>예약</summary>
-  -  
-  <img src="" alt=""/>
+  -  예약 과정은 단계적으로 진행되며 사용자가 날짜, 시간, 인원을 먼저 선택해야 메뉴를 선택할 수 있도록 안내됩니다. 
+  <img src="src/main/resources/static/images/capture/예약.png" alt="예약 화면"/>
 </details>
 
 <details>
 <summary>예약 검토</summary>
-  -  
-  <img src="" alt=""/>
+  -  예약 페이지에서 입력한 예약 정보와 주문 내역을 결제하기 전에 모든 사항을 다시 확인하도록 안내하는 단계입니다.
+  <img src="src/main/resources/static/images/capture/예약확인.png" alt="예약 검토 화면"/>
 </details>
 
 <details>
 <summary>결제</summary>
-  -  
-  <img src="" alt=""/>
+  -  원하는 결제수단을 선택하고 결제를 완료하면 예약 정보가 저장됩니다.
+  <img src="src/main/resources/static/images/capture/결제.png" alt="결제 화면"/>
 </details>
 
 <details>
 <summary>예약 현황(회원)</summary>
-  -  
-  <img src="" alt=""/>
+  -  예약 현황에서는 예약 정보를 다시 확인할 수 있습니다.
+  <img src="src/main/resources/static/images/capture/예약현황.png" alt="예약현황 화면"/>
 </details>
 
 ## 4️⃣ DB 설계 및 API 정보
 ### 🗂️ ERD 이미지
-![ERDiagram](src/main/webapp/images/capture/ER.png)
+![ERDiagram](src/main/resources/static/images/capture/ER.png)
 
 
 #### 🧩 테이블 설명
