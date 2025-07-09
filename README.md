@@ -251,3 +251,4 @@ CatchFood - 음식점 예약 서비스
 
 
 ## 6️⃣ PPT 자료
+[👉 CaTch Food 자료 다운로드 (Google Drive)](https://docs.google.com/presentation/d/1HMx3AHhsaqDdEA4y3cJi3vF67PJmB1Ld/edit?usp=drive_link&ouid=101157712031739783570&rtpof=true&sd=true)
