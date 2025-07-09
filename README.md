@@ -192,7 +192,10 @@ CatchFood - 음식점 예약 서비스
 
 ## 4️⃣ DB 설계 및 API 정보
 ### 🗂️ ERD 이미지
-![ERDiagram](src/main/resources/static/images/capture/ER.png)
+<details>
+<summary>ERD 이미지 보기</summary>
+  <img src="src/main/resources/static/images/capture/ER.png" alt="ER다이어그램"/>
+</details>
 
 
 #### 🧩 테이블 설명
