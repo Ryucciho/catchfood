@@ -158,7 +158,8 @@ CatchFood - 음식점 예약 서비스
 
 ## 4️⃣ DB 설계 및 API 정보
 ### 🗂️ ERD 이미지
-![ERDiagram](src/main/resources/static/images/capture/ERD.png)
+![ERDiagram](src/main/webapp/images/capture/ER.png)
+
 
 #### 🧩 테이블 설명
 #### 1. user — 회원 정보 테이블
