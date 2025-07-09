@@ -20,7 +20,7 @@ CatchFood - 음식점 예약 서비스
   </li>
   <li><b>Backend</b>
     <ul>
-      <li>Java (JDK 21), JSP & Servlet, MyBatis, JavaMail</li>
+      <li>Java (JDK 21), JSP & Servlet, MyBatis</li>
     </ul>
   </li>
   <li><b>Framework / Library</b>
